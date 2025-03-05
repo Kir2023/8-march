@@ -60,21 +60,6 @@ input {
   outline: none;
 }
 
-#start-btn {
-  background-color: #ff66b2;
-  color: white;
-  padding: 12px 24px;
-  border: none;
-  border-radius: 8px;
-  font-size: 18px;
-  cursor: pointer;
-  transition: 0.3s;
-}
-
-#start-btn:hover {
-  background-color: #ff3385;
-}
-
 .hint {
   color: #ff3366;
   font-style: italic;
